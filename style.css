@@ -1,0 +1,41 @@
+body { 
+    font-family:cursive;
+    text-align:center;
+    margin: 80px;
+    background-color: #000000;
+    color: rgb(29, 181, 219);
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+}
+.fnaf {
+    width: 200px;
+    height: 350px;
+}
+
+.ng {
+    color: rgb(173, 212, 210);
+    margin: 10px;
+}  
+
+.ng1 {
+    color: rgb(173, 212, 210);
+    margin: 10px;
+}  
+
+
+.fnaf1 {
+    width: 200px;
+    height: 400px;
+}
+.potp {
+    color: rgb(196, 220, 255);
+    margin: 60px;
+}  
+.g {
+    width: 150px;
+    height: 150px;
+}
+
